@@ -1,16 +1,19 @@
-### Hi there 👋
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=afebd6&text=TeaMin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+<div align="center">
 
-<!--
-**tam31/tam31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨About Me
+"오늘은 내일을 위한 힘” <br>
+하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️Skills⚒️
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-F37C20?style=for-the-badge"/>
+</span>
+</br>
+<span>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-8F8F8F?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</span>
