@@ -5,7 +5,7 @@
 
 ### ✨About Me
 
-<a href="https://velog.io/@tam"><img src="https://img.shields.io/badge/velog-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
+<a href="https://velog.io/@tam/series"><img src="https://img.shields.io/badge/velog-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
 
 "오늘은 내일을 위한 힘” <br>
 하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
