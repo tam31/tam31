@@ -27,12 +27,12 @@
 <table><tbody>
 <tr>
 <td width=300px>
-    <a href="https://velog.io/@tam/series/%EA%B3%B5%EB%B6%80%EB%85%B8%ED%8A%B8">
-        <img width="100%" src="/img/스마일.jpg"/><br/><br/>
-        <div>[공부노트]</div>
+    <a href="https://velog.io/@tam/series/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%98%A4%ED%95%B4%EC%99%80-%EC%82%AC%EC%8B%A4">
+        <img width="90%" height = 170px src="/img/물음표.png"/><br/><br/>
+        <div>객체지향의 사실과 오해</div>
      </a>
-        <div>📘 앞으로의 나의 공부노트! 프로젝트와 공부를 하며 나의 생각과 기록을 남기는 공간 </div>
-        <div>23.09.03</div>
+        <div>🧐 그동안 궁금했던 "객체적으로 생각하는 방법"에 대해 책을 읽고 이해한 내용 정리</div>
+        <div>23.10.18</div>
    
 </td>
 <td width=300px>
